@@ -3,7 +3,7 @@
  * GitHub to Shared Hosting Deployer
  * A tool to deploy GitHub repos to cPanel/Shared Hosting without SSH.
  *
- * https://github.com/[YOUR_USERNAME]/github-to-shared-hosting-deployer
+ * https://github.com/promexdotme/github-to-shared-hosting-deployer
  */
 // Increase time limit for large downloads
 set_time_limit(300);
